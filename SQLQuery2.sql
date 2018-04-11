@@ -1,0 +1,1 @@
+﻿alter table [dbo].[checkadmin] add contact_no nvarchar(50);
